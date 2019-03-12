@@ -1,7 +1,7 @@
 type: install
 jpsVersion: '0.3'
-id: owncloud
-name: ownCloud
+id: owncloud-qa-os
+name: Test ownCloud Package
 version: '10.0.6'
 categories:
   - apps/file-management
