@@ -4,9 +4,15 @@ id: owncloud-qa-os
 name: Test ownCloud Package
 version: '10.0.6'
 categories:
-  - apps/file-management
-  - apps/popular
+  - apps/favorites
+  - apps/dev-and-admin-tools
+  - apps/clusters
+  - apps/microservices
+  - apps/content-management
+  - apps/e-commerce
   - apps/file-manager
+  - apps/project-management
+  - apps/popular
 globals:
   PASSWD: ${fn.password}
 homepage: https://owncloud.org/
